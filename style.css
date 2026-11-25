@@ -15,7 +15,7 @@ h2{font-size:1.3rem;margin-top:2rem;border-bottom:2px solid #e9dcc6;padding-bott
 h3{font-size:1.12rem;margin-top:1.6rem}
 img,svg{max-width:100%;height:auto}
 figure{margin:24px 0;text-align:center}
-figure img{border:1px solid #e9dcc6;border-radius:8px}
+figure img{width:100%;height:auto;display:block;border:1px solid #e9dcc6;border-radius:8px}
 figcaption{font-size:.9rem;color:#555;margin-top:8px;text-align:left}
 ul,ol{padding-left:24px}
 li{margin-bottom:6px}
